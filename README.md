@@ -2,6 +2,7 @@
 
 This repository implements a dark-enhanced network for robust visual place recognition in low-light conditions. The project is based on the research paper which introduces ResEM (Residual Enhancement Module) and DSPFormer (Dual-Level Sampling Pyramid Transformer) to enhance image quality and extract discriminative features in challenging environments.
 ![alt text](image.png)
+
 note: The dataset is will be released later.
 ## Table of Contents
 
