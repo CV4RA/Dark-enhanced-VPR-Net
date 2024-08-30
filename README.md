@@ -29,8 +29,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/MambaPlace.git
-    cd MambaPlace
+    git clone https://github.com/CV4RA/Dark-enhanced-VPR-Net.git
+    cd Dark-enhanced-VPR-Net
     ```
 
 2. Set up a virtual environment:
