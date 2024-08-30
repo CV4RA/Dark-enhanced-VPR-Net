@@ -1,7 +1,7 @@
 # Dark Enhanced Visual Place Recognition
 
 This repository implements a dark-enhanced network for robust visual place recognition in low-light conditions. The project is based on the research paper which introduces ResEM (Residual Enhancement Module) and DSPFormer (Dual-Level Sampling Pyramid Transformer) to enhance image quality and extract discriminative features in challenging environments.
-
+![alt text](image.png)
 note: The dataset is will be released later.
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To set up the project, follow these steps:
 1. Clone the repository:
     ```bash
     git clone https://github.com/CV4RA/Dark-enhanced-VPR-Net.git
-    cd Dark-enhanced-VPR-Net
+    cd Dark-enhanced-VPR-Net/
     ```
 
 2. Set up a virtual environment:
