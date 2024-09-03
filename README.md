@@ -4,7 +4,7 @@ This repository implements a dark-enhanced network for robust visual place recog
 
 ![alt text](image.png)
 
-note: The dataset is will be released later.
+note: The datasets will be released later.
 ## Table of Contents
 
 - [Introduction](#introduction)
