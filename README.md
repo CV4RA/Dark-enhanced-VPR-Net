@@ -62,11 +62,11 @@ To set up the project, follow these steps:
 To train the model, run the following command:
 
 ```bash
-python train/train_dark_vpr.py
+python train_dark_vpr.py
  ```
 ### Evaluation
 
 To evaluate the model, run the following command:
 ```bash
-python eval/eval_dark_vpr.py
+python eval_dark_vpr.py
  ```
