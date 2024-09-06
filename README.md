@@ -10,11 +10,8 @@ Datasets will be released later.
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
