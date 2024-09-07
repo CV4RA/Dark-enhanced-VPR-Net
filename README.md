@@ -35,8 +35,7 @@ To set up the project, follow these steps:
 2. Set up a virtual environment:
     ```bash
     python3 -m venv vpr_env
-    source vpr_env/bin/activate  # For Linux/MacOS
-    # vpr_env\Scripts\activate  # For Windows
+    source vpr_env/bin/activate 
     ```
 
 3. Install the dependencies:
