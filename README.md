@@ -34,7 +34,7 @@ To set up the project, follow these steps:
 
 2. Set up a virtual environment:
     ```bash
-    python3 -m venv vpr_env
+    python -m venv vpr_env
     source vpr_env/bin/activate 
     ```
 
